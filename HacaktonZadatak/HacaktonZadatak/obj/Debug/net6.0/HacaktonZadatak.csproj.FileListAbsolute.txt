@@ -1,0 +1,15 @@
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\bin\Debug\net6.0\HacaktonZadatak.exe
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\bin\Debug\net6.0\HacaktonZadatak.deps.json
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\bin\Debug\net6.0\HacaktonZadatak.runtimeconfig.json
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\bin\Debug\net6.0\HacaktonZadatak.dll
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\bin\Debug\net6.0\HacaktonZadatak.pdb
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.csproj.AssemblyReference.cache
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.AssemblyInfoInputs.cache
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.AssemblyInfo.cs
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.csproj.CoreCompileInputs.cache
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.dll
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\refint\HacaktonZadatak.dll
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.pdb
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\HacaktonZadatak.genruntimeconfig.cache
+C:\Users\adice\source\repos\HacaktonZadatak\HacaktonZadatak\obj\Debug\net6.0\ref\HacaktonZadatak.dll
